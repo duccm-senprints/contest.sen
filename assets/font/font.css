@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('SVN-Gilroy Regular.otf') format('opentype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('SVN-Gilroy SemiBold.otf') format('opentype');
+    font-weight: 600; /* SemiBold is often 600 weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('SVN-Gilroy Bold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
+}
